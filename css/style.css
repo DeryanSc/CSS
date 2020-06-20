@@ -1,0 +1,53 @@
+
+/*Selector Universal
+*{
+  color: indigo;
+} /*
+
+/*Selector de etiquetas*/
+h1{
+  color: chartreuse;
+}
+h2{
+  color: cadetblue;
+}
+p{
+  color: chocolate;
+}
+
+/*Selector desendente
+p b{
+  color: deepskyblue;
+}*/
+
+/*Selector de Clase
+.resaltar{
+  color: deeppink;
+}
+
+.parrafo1{
+  color: darkcyan;
+}*/
+
+/*Selector ID
+#Lista1{
+  color: greenyellow;
+}
+#Lista2{
+  color: darkmagenta;
+}*/
+
+/*Selector multiple
+h1, h2{
+  color: crimson;
+}*/
+
+/*Especifico desendiente
+a.resaltar{
+  color: aqua;
+  font-size: 25px;
+}*/
+
+
+
+
